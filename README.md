@@ -3,7 +3,7 @@
 A Python program that manages student records and results.
 Built for the New Horizon Python Programming Project.
 
-Author: YOUR FULL NAME (Matric No: YOUR MATRIC NUMBER)
+Author: Kenneth-Okoyegbe Chiziterem (Matric No: 24/sci01/110)
 
 ## Features
 - Add, view, search, update and delete students
